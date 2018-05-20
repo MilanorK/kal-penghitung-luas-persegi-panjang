@@ -1,3 +1,4 @@
-# kal-penghitung-luas-persegi-panjang
+# kal-penghitung-energi-potensial
 
-for education purpose
+
+education purpose only
